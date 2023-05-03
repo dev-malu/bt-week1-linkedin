@@ -524,3 +524,19 @@ font-weight: 600;
     position: sticky;
     top: 10px;
 }
+.footer-links {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+    column-gap: 20px;
+    row-gap: 10px;
+    font-size: 13px;
+}
+.copywright {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    font-size: 13px;
+    gap: 5px;
+}
